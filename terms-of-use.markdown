@@ -8,7 +8,7 @@ permalink: /terms-of-use/
 
 These Terms and Conditions constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Siarhei Serdziukou (“we,” “us” or “our”), regarding your access to and use of the Afisha.me mobile application together with the content, tools, transactions and other services available by using the App (collectively, the “Service”). You agree that by accessing the App, you have read, understood, and agree to be bound by all of these Terms and Conditions. Therefore, please read the Terms carefully before using the Service.
 
-Please also review our [Privacy Policy](https://afishame.github.io/contacts/privacy-policy/).
+Please also review our [Privacy Policy](https://afishame.github.io/privacy-policy/).
 
 We reserve the right, in our sole discretion, to make changes or modifications to these Terms and Conditions at any time and for any reason. We will alert you about any changes by updating the “Last updated” date of these Terms and Conditions and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Terms and Conditions to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms and Conditions by your continued use of the App after the date such revised Terms are posted.
 
